@@ -1,0 +1,39 @@
+div table {
+  width: 100%;
+}
+div table td {
+  width: 33%;
+}
+div table td.iut {
+  text-align: center;
+}
+
+body .iut {
+  text-align: center;
+  width: 34%;
+}
+body .couv {
+  text-align: center;
+  margin: 100px 0px 200px 0px;
+}
+body h1, body h2 {
+  background-color: #ff9d11;
+  color: #ffffff;
+}
+body h1 {
+  padding: 20px 20px 20px;
+  text-align: right;
+}
+body h2, body p {
+  padding: 10px 10px 10px 10px;
+  text-align: left;
+}
+body .sommaire ul li {
+  list-style: none;
+  margin-left: -40px;
+}
+body ul li {
+  padding-left: 10px;
+}
+
+/*# sourceMappingURL=plaquette.css.map */

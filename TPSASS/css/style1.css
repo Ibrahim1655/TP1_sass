@@ -1,0 +1,43 @@
+			div table {
+				width: 100%
+			} 
+			
+			td {
+				width: 33%;
+			}
+			
+			.iut, .couv {
+				text-align: center;
+			}
+			
+			.iut {
+				width: 34%;
+			}
+			
+			.couv{
+				margin: 100px 0px 200px 0px;
+			}
+			
+			h1, h2 {
+				background-color: #ff9d11;
+				color: #ffffff;
+			}
+			
+			h1 {
+				padding: 20px 20px 20px;
+				text-align: right;				
+			}
+			
+			h2, p {
+				padding: 10px 10px 10px 10px;
+				text-align:left;
+			}
+			
+			ul li {
+				padding-left: 10px;
+			}
+			
+			.sommaire ul li{
+					list-style: none;
+					margin-left: -40px;
+			}
